@@ -102,5 +102,7 @@ Python
 
 Sahil Sajnani
 📍 India
+
 💼 Aspiring Data Analyst / Data Engineer
+
 📊 Passionate about Finance & Data Analytics
